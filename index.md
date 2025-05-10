@@ -9,3 +9,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] this is checked
+- [ ] this is incomplete
+- [x] this is complete
